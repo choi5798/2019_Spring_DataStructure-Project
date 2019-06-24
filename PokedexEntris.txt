@@ -1,0 +1,151 @@
+이상해씨, 1, Grass, Poison, Seed Pokemon, 71, 6900, Medium Slow, 45, 49, 49, 65, 65, 45, 318, Grass, Monster, 8750, 1250, 태어났을 때부터 등에 이상한 씨앗이 심어져 있으며 몸과 함께 자란다고 한다.
+이상해풀, 2, Grass, Poison, Seed Pokemon, 99, 13000, Medium Slow, 60, 62, 63, 80, 80, 60, 405, Grass, Monster, 8750, 1250, 등의 꽃봉오리가 크게 자라나면 두 발로 설 수 없게 되는 듯하다.
+이상해꽃, 3, Grass, Poison, Seed Pokemon, 201, 100000, Medium Slow, 80, 82, 83, 100, 100, 80, 525, Grass, Monster, 8750, 1250, 태양 에너지를 영양으로 해서 큰 꽃이 핀다. 양달에 유혹된 듯 이동한다.
+파이리, 4, Fire, Fire, Lizard Pokemon, 61, 8500, Medium Slow, 39, 52, 43, 60, 50, 65, 309, Dragon, Monster, 8750, 1250, 뜨거운 것을 좋아하는 성격. 비에 젖으면 꼬리 끝에서 연기가 나오는 듯하다.
+리자드, 5, Fire, Fire, Flame Pokemon, 109, 19000, Medium Slow, 58, 64, 58, 80, 65, 80, 405, Dragon, Monster, 8750, 1250, 불타는 꼬리를 휘두르면 주위의 온도가 점점 올라가 상대를 괴롭게 한다.
+리자몽, 6, Fire, Flying, Flame Pokemon, 170, 90500, Medium Slow, 78, 84, 78, 109, 85, 100, 524, Dragon, Monster, 8750, 1250, 암석도 태울 정도인 작열의 불꽃을 내서 산불을 일으키는 일이 있다.
+꼬부기, 7, Water, Water, Tiny Turtle Pokemon, 51, 9000, Medium Slow, 44, 48, 65, 50, 64, 43, 314, Monster, Water 1, 8750, 1250, 태어난 후 등이 부풀어 단단한 등껍질이 된다. 입에서 강력한 거품을 낸다.
+어니부기, 8, Water, Water, Turtle Pokemon, 99, 22500, Medium Slow, 59, 63, 80, 65, 80, 58, 405, Monster, Water 1, 8750, 1250, 자주 수중에 숨어 먹이를 노린다. 빠르게 헤엄칠 때 귀를 움직여 균형을 맞춘다.
+거북왕, 9, Water, Water, Shellfish Pokemon, 160, 85500, Medium Slow, 79, 83, 100, 85, 105, 78, 530, Monster, Water 1, 8750, 1250, 등껍질에 분사구가 있어 로켓 같은 기세로 덤벼드는 굉장한 녀석이다.
+캐터피, 10, Bug, Bug, Worm Pokemon, 30, 2900, Medium Fast, 45, 30, 35, 20, 20, 45, 195, Bug, Bug, 5000, 5000, 발은 짧지만 흡판처럼 되어있어서 비탈이라도 벽이라도 지치지 않고 나아간다.
+단데기, 11, Bug, Bug, Cocoon Pokemon, 71, 9900, Medium Fast, 50, 20, 55, 25, 25, 30, 205, Bug, Bug, 5000, 5000, 껍질이 단단해지기 전에 강한 충격을 받으면 속이 나와버리니 주의.
+버터플, 12, Bug, Flying, Butterfly Pokemon, 109, 32000, Medium Fast, 60, 45, 50, 90, 80, 70, 395, Bug, Bug, 5000, 5000, 작고 빠른 퍼덕임이라면 맹독의 인분이 바람에 실려 날아간다고.
+뿔충이, 13, Bug, Poison, Hairy Bug Pokemon, 30, 3200, Medium Fast, 40, 35, 30, 20, 20, 50, 195, Bug, Bug, 5000, 5000, 숲이나 풀밭에 많이 서식한다. 머리끝에 5cm 정도의 작고 날카로운 독침을 지니고 있다.
+딱충이, 14, Bug, Poison, Cocoon Pokemon, 61, 10000, Medium Fast, 45, 25, 50, 25, 25, 35, 205, Bug, Bug, 5000, 5000, 성체의 몸을 만들기 위해서 일시적인 상태. 스스로로도 거의 움직이지 않는다.
+독침붕, 15, Bug, Poison, Poison Bee Pokemon, 99, 29500, Medium Fast, 65, 90, 40, 45, 80, 75, 395, Bug, Bug, 5000, 5000, 고속으로 날아다녀 양팔과 엉덩이에 있는 커다란 독바늘을 사용해 상대를 공격한다.
+구구, 16, Normal, Flying, Tiny Bird Pokemon, 30, 1800, Medium Slow, 40, 45, 40, 35, 35, 56, 251, Flying, Flying, 5000, 5000, 숲이나 수풀에 많이 분포해 있다. 땅에서도 격렬한 날갯짓으로 모래를 뿌리기도 한다.
+피죤, 17, Normal, Flying, Bird Pokemon, 109, 30000, Medium Slow, 63, 60, 55, 50, 50, 71, 349, Flying, Flying, 5000, 5000, 넓은 영역을 가지고 있어 침입한 방해자는 철저하게 쪼아버린다.
+피죤투, 18, Normal, Flying, Bird Pokemon, 150, 39500, Medium Slow, 83, 80, 75, 70, 70, 101, 479, Flying, Flying, 5000, 5000, 먹이를 찾아다닐 때 수면 가까이를 미끄러지듯 날아 잉어킹등을 움켜쥔다.
+꼬렛, 19, Normal, Normal, Mouse Pokemon, 30, 3500, Medium Fast, 30, 56, 35, 25, 35, 72, 253, Field, Field, 5000, 5000, 무엇이라도 깎는 공격. 작은 외관에 움직임이 빨라 이런저런 곳에 출몰한다.
+레트라, 20, Normal, Normal, Mouse Pokemon, 71, 18500, Medium Fast, 55, 81, 60, 50, 70, 97, 413, Field, Field, 5000, 5000, 뒷발에 있는 작은 물갈퀴로 강을 헤엄치는 것은 물 안의 먹이를 잡기위해서이다.
+깨비참, 21, Normal, Flying, Tiny Bird Pokemon, 30, 2000, Medium Fast, 40, 60, 30, 31, 31, 70, 262, Flying, Flying, 5000, 5000, 풀숲의 벌레 따위를 먹는다. 날개가 짧기 때문에 항상 쉴 새 없이 날개를 치고 있다.
+깨비드릴조, 22, Normal, Flying, Beak Pokemon, 119, 38000, Medium Fast, 65, 90, 65, 61, 61, 100, 442, Flying, Flying, 5000, 5000, 커다란 날개로 넓은 하늘을 계속 날 수 있다. 한 번도 내려오지 않아도 태연하다.
+아보, 23, Poison, Poison, Snake Pokemon, 201, 6900, Medium Fast, 35, 60, 44, 40, 54, 55, 288, Dragon, Field, 5000, 5000, 전혀 기척을 느끼지 못하게 이동한다. 구구나 깨비참의 알을 한 입에 삼켜 버리고 만다.
+아보크, 24, Poison, Poison, Cobra Pokemon, 351, 65000, Medium Fast, 60, 85, 69, 65, 79, 80, 438, Dragon, Field, 5000, 5000, 배의 무서운 문양은 지역에 따라서 몇 종류인가 패턴이 있다고 하는 소문이다.
+피카츄, 25, Electric, Electric, Mouse Pokemon, 41, 6000, Medium Fast, 35, 55, 40, 50, 50, 90, 320, Fairy, Field, 5000, 5000, 몇 마리씩 모여 있으면 그곳에 맹렬한 전기가 모여 번개가 떨어지는 때가 있다고 한다.
+라이츄, 26, Electric, Electric, Mouse Pokemon, 79, 30000, Medium Fast, 60, 90, 55, 90, 80, 110, 485, Fairy, Field, 5000, 5000, 긴 꼬리가 접지선이 되어 몸을 지키고 있어서 자기 자신은 고전압에도 마비되지 않는 거다.
+모래두지, 27, Ground, Ground, Mouse Pokemon, 61, 12000, Medium Fast, 50, 75, 85, 20, 30, 40, 300, Field, Field, 5000, 5000, 물기가 적은 장소에 깊은 구멍을 파고 숨는다. 먹잇감을 노릴 때에는 나온다.
+고지, 28, Ground, Ground, Mouse Pokemon, 99, 29500, Medium Fast, 75, 100, 110, 45, 55, 65, 450, Field, Field, 5000, 5000, 등을 둥글게 말면 삐죽삐죽한 공과 같다. 그대로 굴러가며 부딪히거나 도망가거나 한다.
+니드런 여, 29, Poison, Poison, Poison Pin Pokemon, 41, 7000, Medium Slow, 55, 47, 52, 40, 40, 41, 275, Field, Monster, 0, 10000, 몸이 작지만 독침을 지니고 있기 때문에 주의가 필요하다. 암컷의 뿔이 더 작다.
+니드리나, 30, Poison, Poison, Poison Pin Pokemon, 79, 20000, Medium Slow, 70, 62, 67, 55, 55, 56, 365, Undiscovered, Undiscovered, 0, 10000, 암컷이라서 뿔의 성장이 늦다. 할퀴거나 물거나 하는 육탄전을 좋아한다.
+니드퀸, 31, Poison, Ground, Drill Pokemon, 130, 60000, Medium Slow, 90, 92, 87, 75, 85, 76, 505, Undiscovered, Undiscovered, 0, 10000, 딱딱한 비늘로 공격으로부터 몸을 지킨다. 관록이 있는 몸으로부터 큰 기술을 내보낸다.
+니드런 남, 32, Poison, Poison, Poison Pin Pokemon, 51, 9000, Medium Slow, 46, 57, 40, 40, 40, 50, 273, Field, Monster, 10000, 0, 귀를 세워서 위험을 느낀다. 몸의 가시가 클 수록 강한 독을 낸다.
+니드리노, 33, Poison, Poison, Poison Pin Pokemon, 89, 19500, Medium Slow, 61, 72, 57, 55, 55, 65, 365, Field, Monster, 10000, 0, 금방 화를 내며 싸우려 든다. 게다가 머리의 뿔은 찔리면 강렬한 독소를 내는 구조이다.
+니드킹, 34, Poison, Ground, Drill Pokemon, 140, 62000, Medium Slow, 81, 102, 77, 85, 75, 85, 505, Field, Monster, 10000, 0, 굵은 꼬리를 휘둘러서 상대를 단단히 조인다. 그리고 등뼈를 꺾고 만다.
+삐삐, 35, Normal, Normal, Fairy Pokemon, 61, 7500, Fast, 70, 45, 48, 60, 65, 35, 323, Fairy, Fairy, 2500, 7500, 신비하고 귀여워서 많은 팬이 있다. 단, 서식지가 한정이 있어 발견하는 것이 큰일.
+픽시, 36, Normal, Normal, Fairy Pokemon, 130, 40000, Fast, 95, 70, 73, 95, 90, 60, 483, Fairy, Fairy, 2500, 7500, 요정의 동료로 좀 처럼 사람 앞에 나타나지 않는다. 기척을 느끼고 곧바로 도망가 버리는 듯 싶다.
+식스테일, 37, Fire, Fire, Fox Pokemon, 61, 9900, Medium Fast, 38, 41, 40, 50, 65, 65, 299, Field, Field, 2500, 7500,태어날 때 꼬리는 새하얗고 1개 밖에 없다. 성장하면 머지 않아 끝이 갈라지며 꼬리가 는다.
+나인테일, 38, Fire, Fire, Fox Pokemon, 109, 19900, Medium Fast, 73, 76, 75, 81, 100, 100, 505, Field, Field, 2500, 7500, 머리가 좋아서 집념이 강하다. 장난치며 꼬리를 잡으면 1000년 동안 화를 당한다고 한다.
+푸린, 39, Normal, Normal, Balloon Pokemon, 51, 5500, Fast, 115, 45, 20, 45, 25, 20, 270, Fairy, Fairy, 2500, 7500, 동그랗고 귀여운 눈동자가 여럼풋이 흔들릴 때 상대를 졸립게 하는 신비롭고 기분좋은 노래를 부른다.
+푸크린, 40, Normal, Normal, Balloon Pokemon, 99, 12000, Fast, 140, 70, 45, 85, 50, 45, 435, Fairy, Fairy, 2500, 7500, 몸에 탄력성이 있어서 화나게 하면 숨을 들이마셔서 점점 크게 부풀린다.
+주뱃, 41, Poison, Flying, Bat Pokemon, 79, 7500, Medium Fast, 40, 45, 35, 30, 40, 55, 245, Flying, Flying, 5000, 5000, 어두운 곳에 집단으로 소리를 낸다. 초음파를 내뿜어 타겟에 다가간다.
+골뱃, 42, Poison, Flying, Bat Pokemon, 160, 55000, Medium Fast, 75, 80, 70, 65, 75, 90, 455, Flying, Flying, 5000, 5000, 물리면 끝이다. 죽을 정도로 피를 빨아들이기 때문에 무거워져서 날 수 없게 될 때도 있다.
+뚜벅쵸, 43, Grass, Poison, Weed Pokemon, 51, 5400, Medium Slow, 45, 50, 55, 75, 65, 30, 320, Grass, Grass, 5000, 5000, 낮에는 얼굴을 땅에 파묻고 별로 움직이지 않는다. 밤이 되면 씨를 뿌려대면서 걸어다닌다.
+냄새꼬, 44, Grass, Poison, Weed Pokemon, 79, 8600, Medium Slow, 60, 65, 70, 85, 75, 40, 395, Grass, Grass, 5000, 5000, 입에서 나오는 액체는 침이 아니라 사실은 먹이를 유인하기 위한 꿀이다.
+라플레시아, 45, Grass, Poison, Flower Pokemon, 119, 18600, Medium Slow, 75, 80, 85, 110, 90, 50, 490, Grass, Grass, 5000, 5000, 꽃잎이 클수록 많은 꽃가루를 만들어 내지만 머리가 무거워서 지쳐버린다고 한다.
+파라스, 46, Bug, Grass, Mushroom Pokemon, 30, 5400, Medium Fast, 35, 70, 55, 45, 55, 25, 285, Bug, Grass, 5000, 5000, 구멍을 파서 나무뿌리로부터 영양을 섭취하지만 대부분은 등에 있는 버섯에게 빼앗긴다.
+파라섹트, 47, Bug, Grass, Mushroom Pokemon, 99, 29500, Medium Fast, 60, 95, 80, 60, 80, 30, 405, Bug, Grass, 5000, 5000, 벌레의 몸보다 커진 버섯의 의지로 활동한다. 축축한 곳을 좋아한다고 한다.
+콘팡, 48, Bug, Poison, Insect Pokemon, 99, 30000, Medium Fast, 60, 55, 50, 40, 55, 45, 305, Bug, Bug, 5000, 5000, 큰 나무 밑에 살며 벌레 등을 먹는 듯 하다. 밤에는 불빛을 향해 찾아온다.
+도나리, 49, Bug, Poison, Poison Moth Pokemon, 150, 12500, Medium Fast, 70, 65, 60, 90, 75, 90, 450, Bug, Bug, 5000, 5000, 날개를 덮은 날개가루는 색깔에 따라 다양한 독을 갖고 있는 듯 하다.
+디그다, 50, Ground, Ground, Mole Pokemon, 20, 800, Medium Fast, 10, 55, 25, 35, 45, 95, 265, Field, Field, 5000, 5000, 지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.
+닥트리오, 51, Ground, Ground, Mole Pokemon, 71, 33300, Medium Fast, 35, 80, 50, 50, 70, 120, 405, Field, Field, 5000, 5000, 디그다 세 마리가 팀을 이루었다. 지하에 100km의 땅굴을 파 큰 지진의 원인이 되기도 한다.
+나옹, 52, Normal, Normal, Scratch Cat Pokemon, 41, 4200, Medium Fast, 40, 45, 35, 40, 40, 90, 290, Field, Field, 5000, 5000, 둥근 것을 무척 좋아한다. 밤이면 밤마다 밖으로 나가 떨어져있는 동전을 주워모아서 돌아온다.
+페르시온, 53, Normal, Normal, Classy Cat Pokemon, 99, 32000, Medium Fast, 65, 70, 60, 65, 65, 115, 440, Field, Field, 5000, 5000, 털의 결이 아름다워 애완용로 기르는 사람도 많으나 바로 할퀴거나 하기 때문에 기르기 어렵다.
+고라파덕, 54, Water, Water, Duck Pokemon, 79, 19600, Medium Fast, 50, 52, 48, 65, 50, 55, 320, Field, Water 1, 5000, 5000, 멍한 얼굴에 방심하면 즉시 염동력이나 사슬묶기를 써서 덤비는 무시 못할 녀석이다.
+골덕, 55, Water, Water, Duck Pokemon, 170, 76600, Medium Fast, 80, 82, 78, 95, 80, 85, 500, Field, Water 1, 5000, 5000, 우아한 호수 주위를 아름답게 헤엄치는 모습을 요괴라고 오해하는 사람이 있다.
+망키, 56, Fighting, Fighting, Pig Monkey Pokemon, 51, 28000, Medium Fast, 40, 80, 35, 35, 45, 70, 305, Field, Field, 5000, 5000, 평소에는 기분이 좋아도 사소한 일로 갑자기 날뛰기 시작하므로 무섭다.
+성원숭, 57, Fighting, Fighting, Pig Monkey Pokemon, 99, 32000, Medium Fast, 65, 105, 60, 60, 70, 95, 455, Field, Field, 5000, 5000, 왜인지 맹렬하게 화내고 아무리 도망쳐도 끝까지 쫓아오는 성격이다.
+가디, 58, Fire, Fire, Puppy Pokemon, 71, 19000, Slow, 55, 70, 45, 70, 50, 60, 350, Field, Field, 7500, 2500, 영역 보호가 굉장하다. 침입자가 들어오면 영역을 지키려 필사적으로 짖어대고 물어버린다.
+윈디, 59, Fire, Fire, Legendary Pokemon, 191, 155000, Slow, 90, 110, 80, 100, 80, 95, 555, Field, Field, 7500, 2500, 옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 날듯이 경쾌하게 달린다.
+발챙이, 60, Water, Water, Tadpole Pokemon, 61, 12400, Medium Slow, 40, 50, 40, 40, 40, 90, 300, Water 1, Water 1, 5000, 5000, 아직 다리가 막 생긴 참이라서 잘 걷지 못한다. 물속을 헤엄치는 편이 더 좋은 모양이다.
+슈륙챙이, 61, Water, Water, Tadpole Pokemon, 99, 20000, Medium Slow, 65, 65, 65, 50, 50, 90, 385, Water 1, Water 1, 5000, 5000, 육지에서도 수중에서도 살 수 있다. 지상에서는 항상 땀으로 피부를 미끈미끈하게 한다.
+강챙이, 62, Water, Fighting, Tadpole Pokemon, 130, 54000, Medium Slow, 90, 95, 95, 70, 90, 70, 510, Water 1, Water 1, 5000, 5000, 자유형이나 접영을 잘하여 올림픽 선수도 제치고 쑥쑥 앞질러 나아간다.
+케이시, 63, Psychic, Psychic, Psi Pokemon, 89, 19500, Medium Slow, 25, 20, 15, 105, 55, 90, 310, Human-Like, Human-Like, 7500, 2500, 상대의 생각을 읽어내서 위기에 몰리기 전에 순간이동로 도망쳐버린다.
+윤겔라, 64, Psychic, Psychic, Psi Pokemon, 130, 56500, Medium Slow, 40, 35, 30, 120, 70, 105, 400, Human-Like, Human-Like, 7500, 2500, 몸에서 특수한 알파파가 나와서 근처에 다가가기만 해도 머리가 아파온다.
+후딘, 65, Psychic, Psychic, Psi Pokemon, 150, 48000, Medium Slow, 55, 50, 45, 135, 95, 120, 500, Human-Like, Human-Like, 7500, 2500, 슈퍼컴퓨터보다 빠르게 계산하는 두뇌를 가졌다. 지능지수는 약 5000이다.
+알통몬, 66, Fighting, Fighting, Superpower Pokemon, 79, 19500, Medium Slow, 70, 80, 50, 35, 35, 35, 305, Human-Like, Human-Like, 7500, 2500, 근육을 단련하는 것을 매우 좋아해서 다양한 격투기에 도전하고 점점 강하게 성장한다.
+근육몬, 67, Fighting, Fighting, Superpower Pokemon, 150, 70500, Medium Slow, 80, 100, 70, 50, 60, 45, 405, Human-Like, Human-Like, 7500, 2500, 엄청나게 강한 육체를 지녔기 때문에 파워 세이브 벨트를 차서 힘을 제어하고 있다.
+괴력몬, 68, Fighting, Fighting, Superpower Pokemon, 160, 130000, Medium Slow, 90, 130, 80, 65, 85, 55, 505, Human-Like, Human-Like, 7500, 2500, 슈퍼 파워 펀치를 가졌다는 것은 수평선까지도 날려버릴 수 있다는 것을 뜻한다.
+모다피, 69, Grass, Poison, Flower Pokemon, 71, 4000, Medium Slow, 50, 75, 35, 70, 30, 40, 300, Grass, Grass, 5000, 5000, 작은 벌레를 잡아 먹는다. 다리의 뿌리를 써서 수분을 보급하기도 하는 모양이다.
+우츠동, 70, Grass, Poison, Flycatcher Pokemon, 99, 6400, Medium Slow, 65, 90, 50, 85, 45, 55, 390, Grass, Grass, 5000, 5000, 우선 독가루를 뿌려 상대의 움직임을 멈추게 하고 나서 용해액으로 숨통을 끊는다.
+우츠보트, 71, Grass, Poison, Flycatcher Pokemon, 170, 15500, Medium Slow, 80, 105, 65, 100, 70, 70, 490, Grass, Grass, 5000, 5000, 정글의 안쪽에 우츠보트만 있는 지대가 있어서 한 번 가면 두 번 다시 돌아올 수 없다.
+왕눈해, 72, Water, Poison, Jellyfish Pokemon, 89, 45500, Slow, 40, 40, 35, 50, 100, 70, 335, Water 3, Water 3, 5000, 5000, 바다 얕은 곳을 떠다닌다. 낚시꾼이 실수로 낚아 올려 찔리는 일이 많다고 한다.
+독파리, 73, Water, Poison, Jellyfish Pokemon, 160, 55000, Slow, 80, 70, 65, 80, 120, 100, 515, Water 3, Water 3, 5000, 5000, 촉수는 평소에는 짧고 먹이를 찌를 때 길게 늘어나 휘감는다.
+꼬마돌, 74, Rock, Ground, Rock Pokemon, 41, 20000, Medium Slow, 40, 80, 100, 30, 30, 20, 300, Mineral, Mineral, 5000, 5000, 초원이나 산에 서식한다. 돌멩이와 닮은 탓에 알아채지 못하고 밟거나 발이 걸려 넘어지기도 한다.
+데구리, 75, Rock, Ground, Rock Pokemon, 99, 105000, Medium Slow, 55, 95, 115, 45, 45, 35, 390, Mineral, Mineral, 5000, 5000, 언덕을 굴러서 이동한다. 방해물은 마구 짓누르며 나아간다.
+딱구리, 76, Rock, Ground, Megaton Pokemon, 140, 300000, Medium Slow, 80, 120, 130, 55, 65, 45, 495, Mineral, Mineral, 5000, 5000, 암석처럼 단단한 몸으로 이루어졌다. 다이너마이트로 폭발시켜도 데미지를 받지 않는다.
+포니타, 77, Fire, Fire, Fire Horse Pokemon, 99, 30000, Medium Fast, 50, 85, 55, 65, 65, 90, 410, Field, Field, 5000, 5000, 다리의 발굽은 다이아몬드보다 10배 단단하다. 어떤 것이라도 납작하게 밟아 부서버린다.
+날쌩마, 78, Fire, Fire, Fire Horse Pokemon, 170, 95000, Medium Fast, 65, 100, 70, 80, 80, 105, 500, Field, Field, 5000, 5000, 빠르게 움직이는 물체를 보면 경주를 하고 싶어져서 명렬한 스피드로 쫓아가기 시작한다.
+야돈, 79, Water, Psychic, Dopey Pokemon, 119, 36000, Medium Fast, 90, 65, 65, 40, 40, 15, 315, Monster, Water 1, 5000, 5000, 움직임이 느려터진 얼간이. 맞아도 5초 지난 후에서야 아픔을 느낄 정도다.
+야도란, 80, Water, Psychic, Hermit Crab Pokemon, 160, 78500, Medium Fast, 95, 75, 110, 100, 80, 30, 490, Monster, Water 1, 5000, 5000, 들러붙어 있는 셀러는 야돈이 먹고 남긴 것을 먹으며 산다고 한다.
+코일, 81, Electric, Steel, Magnet Pokemon, 30, 6000, Medium Fast, 25, 35, 70, 95, 55, 45, 325, Mineral, Mineral, 0, 0, 반중력으로 뜨는 것 같다. 난데없이 나타나서 전자파 등을 방출한다.
+레어코일, 82, Electric, Steel, Magnet Pokemon, 99, 60000, Medium Fast, 50, 60, 95, 120, 70, 70, 465, Mineral, Mineral, 0, 0, 연결된 타입의 코일은 태양의 흑점이 많을 때 많이 나타난다고 한다.
+파오리, 83, Normal, Flying, Wild Duck Pokemon, 79, 15000, Medium Fast, 52, 65, 55, 58, 62, 60, 352, Field, Flying, 5000, 5000, 가지고 있는 파 줄기는 소중한 무기이기도 하며 칼을 휘두르듯 다양한 것을 자를 수 있다.
+두두, 84, Normal, Flying, Twin Bird Pokemon, 140, 39200, Medium Fast, 35, 85, 45, 35, 35, 75, 310, Flying, Flying, 5000, 5000, 나는 것은 서툴지만 달리는 것은 빠르다. 거대한 발자국을 남겨가며 대지를 달린다.
+두트리오, 85, Normal, Flying, Triple Bird Pokemon, 180, 85200, Medium Fast, 60, 110, 70, 60, 60, 100, 460, Flying, Flying, 5000, 5000, 3개의 머리로 고도의 작전을 짜서 움직인다. 잘 때에도 머리 하나정도는 깨 있다고 한다.
+쥬쥬, 86, Water, Water, Sea Lion Pokemon, 109, 90000, Medium Fast, 65, 45, 55, 45, 70, 45, 325, Field, Water 1, 5000, 5000, 머리에 튀어나온 뿔은 매우 단단하다. 박치기로 빙산을 깨고 앞으로 나아간다.
+쥬레곤, 87, Water, Ice, Sea Lion Pokemon, 170, 120000, Medium Fast, 90, 70, 80, 70, 95, 70, 475, Field, Water 1, 5000, 5000, 추위를 버티기 위해 몸 속에 열 에너지를 저장한다. 차가운 바다에서도 8노트로 헤엄친다.
+질퍽이, 88, Poison, Poison, Sludge Pokemon, 89, 30000, Medium Fast, 80, 80, 50, 40, 50, 25, 325, Amorphous, Amorphous, 5000, 5000, 더러운 곳에 나타난다. 공장에서 흘러나오는 진흙 폐수를 마시고 산다.
+질뻐기, 89, Poison, Poison, Sludge Pokemon, 119, 30000, Medium Fast, 105, 105, 75, 65, 100, 50, 500, Amorphous, Amorphous, 5000, 5000, 더러운 진흙이 온몸에 엉겨붙었다. 지나간 자리에 닿기만해도 독에 걸린다.
+셀러, 90, Water, Water, Bivalve Pokemon, 30, 4000, Slow, 30, 65, 100, 45, 25, 40, 305, Water 3, Water 3, 5000, 5000, 단단한 껍데기는 어떤 공격도 튕겨낸다. 껍데기를 벌리고 있을 때 안쪽을 공격당하는 것에는 약하다.
+파르셀, 91, Water, Ice, Bivalve Pokemon, 150, 132500, Slow, 50, 95, 180, 85, 45, 70, 525, Water 3, Water 3, 5000, 5000, When attacked, 공격받으면 표면의 가시가 끊임없이 날아온다. 내부의 정체는 불명.
+고오스, 92, Ghost, Poison, Gas Pokemon, 130, 100, Medium Slow, 30, 35, 30, 100, 35, 80, 310, Amorphous, Amorphous, 5000, 5000, 모습이 거의 안보인다. 모르는 사이에 가스에 중독되어 기절한다.
+고우스트, 93, Ghost, Poison, Gas Pokemon, 160, 100, Medium Slow, 45, 50, 45, 115, 55, 95, 405, Amorphous, Amorphous, 5000, 5000, 벽돌로 된 벽도 통과하는 까닭에 이차원 공간의 생물이 아니냐는 소문이 돌고 있다.
+팬텀, 94, Ghost, Poison, Shadow Pokemon, 150, 40500, Medium Slow, 60, 65, 60, 130, 75, 110, 550, Amorphous, Amorphous, 5000, 5000, 보름달 밤에 그림자가 제멋대로 움직이며 웃는다면 팬텀의 짓이 틀림없다.
+롱스톤, 95, Rock, Ground, Rock Snake Pokemon, 879, 210000, Medium Fast, 35, 45, 160, 30, 45, 70, 385, Mineral, Mineral, 5000, 5000, 성장하면 몸의 암석성분이 변화해서 검은 다이아몬드처럼 된다.
+슬리프, 96, Psychic, Psychic, Hypnosis Pokemon, 99, 32400, Medium Fast, 60, 48, 45, 43, 90, 42, 328, Human-Like, Human-Like, 5000, 5000, 잠들게 한 뒤 꿈을 먹지만 나쁜 꿈만 먹고 있으면 배탈이 날 때도 있는 것 같다.
+슬리퍼, 97, Psychic, Psychic, Hypnosis Pokemon, 160, 75600, Medium Fast, 85, 73, 70, 73, 115, 67, 483, Human-Like, Human-Like, 5000, 5000, 상대와 눈이 마주쳤을 때 최면술 등 갖가지 초능력을 쓴다고 한다.
+크랩, 98, Water, Water, River Crab Pokemon, 41, 6500, Medium Fast, 30, 105, 90, 25, 25, 50, 325, Water 3, Water 3, 5000, 5000, 집게는 강력한 무기이며 옆으로 걸을 때 몸의 균형을 잡는 역할도 한다.
+킹크랩, 99, Water, Water, Pincer Pokemon, 130, 60000, Medium Fast, 55, 130, 115, 50, 50, 75, 475, Water 3, Water 3, 5000, 5000, 집게는 1만 마력의 슈퍼파워를 품었지만 너무 커서 잘 움직이지 않는다.
+찌리리공, 100, Electric, Electric, Ball Pokemon, 51, 10400, Medium Fast, 40, 30, 50, 55, 55, 100, 330, Mineral, Mineral, 0, 0, 발전소 등에 나타난다. 몬스터볼로 착각하고 만졌다가 감전되는 사람이 많다.
+붐볼, 101, Electric, Electric, Ball Pokemon, 119, 66600, Medium Fast, 60, 50, 70, 80, 80, 140, 480, Mineral, Mineral, 0, 0, 방대한 전기에너지를 모아뒀으며 자그만 충격으로 대폭발을 일으킨다.
+아라리, 102, Grass, Psychic, Egg Pokemon, 41, 2500, Slow, 60, 40, 80, 60, 45, 40, 325, Grass, Grass, 5000, 5000, 알인 줄 알고 건드리면 동료가 점점 모여들어 집단공격을 해온다.
+나시, 103, Grass, Psychic, Coconut Pokemon, 201, 120000, Slow, 95, 95, 85, 125, 65, 55, 520, Grass, Grass, 5000, 5000, 매우 드물게 머리 중 하나가 지면에 떨어지면 아라리가 되어 움직이기 시작한다고 한다.
+탕구리, 104, Ground, Ground, Lonely Pokemon, 41, 6500, Medium Fast, 50, 50, 95, 40, 50, 35, 320, Monster, Monster, 5000, 5000, 머리에 뼈 헬멧을 쓰고 있어서 맨 얼굴을 본 사람은 없다.
+텅구리, 105, Ground, Ground, Bone Keeper Pokemon, 99, 45000, Medium Fast, 60, 80, 110, 50, 80, 45, 425, Monster, Monster, 5000, 5000, 뼈는 중요한 무기이다. 부메랑처럼 던져서 사냥감을 맞춰 기절시킨다.
+시라소몬, 106, Fighting, Fighting, Kicking Pokemon, 150, 49800, Medium Fast, 50, 120, 53, 35, 110, 87, 455, Human-Like, Human-Like, 10000, 0, 급하게 달릴 때 점점 다리가 길어져 엄청난 보폭으로 나아간다.
+홍수몬, 107, Fighting, Fighting, Punching Pokemon, 140, 50200, Medium Fast, 50, 105, 79, 35, 110, 76, 455, Human-Like, Human-Like, 10000, 0, 아무것도 하지 않는 것 같아도 보이지 않는 스피드로 펀치를 날려댄 후 정신을 가다듬는다.
+내루미, 108, Normal, Normal, Licking Pokemon, 119, 65500, Medium Fast, 90, 55, 75, 60, 75, 30, 385, Monster, Monster, 5000, 5000, 혀가 카멜레온처럼 쭉쭉 뻗어나갈 정도로 길다. 혀를 핥으면 삐리삐리 저려온다.
+또가스, 109, Poison, Poison, Poison Gas Pokemon, 61, 1000, Medium Fast, 40, 65, 95, 60, 45, 35, 340, Amorphous, Amorphous, 5000, 5000, 체내에 갖가지 독가스가 모였기 때문에 때때로 대폭발을 일으키기도 한다.
+또도가스, 110, Poison, Poison, Poison Fas Pokemon, 119, 9500, Medium Fast, 65, 90, 120, 85, 70, 60, 490, Amorphous, Amorphous, 5000, 5000, 2개의 독가스 성분이 오랫동안 괴인 곳에서 쌍둥이 또가스가 나온다는 것 같다.
+뿔카노, 111, Ground, Rock, Spikes Pokemon, 99, 115000, Slow, 80, 85, 95, 30, 30, 25, 345, Field, Monster, 5000, 5000, 뼈가 튼튼해서 인간의 1000배는 딱딱하다. 대형 트레일러도 날려버린다.
+코뿌리, 112, Ground, Rock, Drill Pokemon, 191, 120000, Slow, 105, 130, 120, 45, 45, 40, 485, Field, Monster, 5000, 5000, 전신을 갑옷 같은 피부로 보호하고 있다. 2000도의 마그마 속에서도 살 수 있다.
+럭키, 113, Normal, Normal, Egg Pokemon, 109, 34600, Fast, 250, 5, 5, 35, 105, 50, 450, Fairy, Fairy, 0, 10000, 개체 수가 매우 적다. 잡은 사람에게는 행복을 가져다준다고 전해진다.
+덩쿠리, 114, Grass, Grass, Vine Pokemon, 99, 35000, Medium Fast, 65, 55, 115, 100, 40, 60, 435, Grass, Grass, 5000, 5000, 온몸이 덩굴로 겹겹이 뒤덮여서 걸을 때마다 흔들흔들거린다.
+캥카, 115, Normal, Normal, Parent Pokemon, 221, 80000, Medium Fast, 105, 95, 80, 40, 80, 90, 490, Monster, Monster, 0, 10000, 새끼는 어미의 배에 있는 주머니에서 거의 나오지 않는다. 약 3년이 지나서 자립한다.
+쏘드라, 116, Water, Water, Dragon Pokemon, 41, 8000, Medium Fast, 30, 40, 70, 70, 25, 60, 295, Dragon, Water 1, 5000, 5000, 수면에서 힘차게 먹물을 발사해서 날고 있는 벌레를 맞춰서 떨어뜨릴 때가 있다고 한다.
+시드라, 117, Water, Water, Dragon Pokemon, 119, 25000, Medium Fast, 55, 65, 95, 95, 45, 85, 440, Dragon, Water 1, 5000, 5000, 날개와 꼬리를 재빠르게 움직여 앞을 향한 채 뒤로 헤엄칠 수 있는 포켓몬이다.
+콘치, 118, Water, Water, Goldfish Pokemon, 61, 15000, Medium Fast, 45, 67, 60, 35, 50, 63, 320, Water 2, Water 2, 5000, 5000, 헤엄칠 때 꼬리지느러미가 드레스처럼 살랑살랑 흔들려서 수중의 여왕이라고 불린다.
+왕콘치, 119, Water, Water, Goldfish Pokemon, 130, 39000, Medium Fast, 80, 92, 65, 65, 80, 68, 450, Water 2, Water 2, 5000, 5000, 가을이 오면 산란을 위해 힘차게 강물을 거슬러 올라가며 헤엄치는 모습을 볼 수 있다.
+별가사리, 120, Water, Water, Star Shape Pokemon, 79, 34500, Slow, 30, 45, 55, 70, 55, 85, 340, Water 3, Water 3, 0, 0, 몸의 일부가 잘려도 자기재생해서 원래대로 돌아가는 수수께끼가 많은 생물이다.
+아쿠스타, 121, Water, Psychic, Mysterious Pokemon, 109, 80000, Slow, 60, 75, 85, 100, 85, 115, 520, Water 3, Water 3, 0, 0, 코어라 불리는 중심은 일곱 빛깔로 빛난다. 이것을 보석으로 삼는 사람도 있다고 한다.
+마임맨, 122, Psychic, Psychic, Barrier Pokemon, 130, 54500, Medium Fast, 40, 45, 65, 100, 120, 90, 460, Human-Like, Human-Like, 5000, 5000, 판토마임을 방해하면 갑자기 큰 손바닥으로 연속뺨치기를 날린다고 한다.
+스라크, 123, Bug, Flying, Mantis Pokemon, 150, 56000, Medium Fast, 70, 110, 80, 55, 80, 105, 500, Bug, Bug, 5000, 5000, 닌자처럼 재빠르다. 너무 빨리 움직일 때에는 몇 마리나 있는 것처럼 보인다.
+루주라, 124, Ice, Psychic, Human Shape Pokemon, 140, 40600, Medium Fast, 65, 50, 35, 115, 95, 95, 455, Human-Like, Human-Like, 0, 10000, 허리를 흔드는 듯이 걷고 있다. 방심하면 엉겁결에 따라서 춤춰버린다고 한다.
+에레브, 125, Electric, Electric, Electric Pokemon, 109, 30000, Medium Fast, 65, 83, 57, 95, 85, 105, 490, Human-Like, Human-Like, 7500, 2500, 발전소 부근에서 모습을 감췄을 때 마을에서 큰 정전이 일어난다고 한다.
+마그마, 126, Fire, Fire, Spitfire Pokemon, 130, 44500, Medium Fast, 65, 95, 57, 100, 85, 93, 495, Human-Like, Human-Like, 7500, 2500, 스스로 오렌지색깔로 불타고 있어서 불꽃 속에 숨으면 전혀 구분이 안 된다.
+쁘사이저, 127, Bug, Bug, Stag Beetle Pokemon, 150, 55000, Slow, 65, 125, 100, 55, 70, 85, 500, Bug, Bug, 5000, 5000, 뿔 사이에 끼워도 조각나지 않을 땐 뿔에 끼운 채 그대로 세차게 내던지는 전법을 취한다.
+켄타로스, 128, Normal, Normal, Wild Bull Pokemon, 140, 88400, Slow, 75, 100, 95, 40, 70, 110, 490, Field, Field, 10000, 0, 노리는 먹이를 포착하면 꼬리로 몸을 때리면서 똑바로 돌진해온다.
+잉어킹, 129, Water, Water, Fish Pokemon, 89, 10000, Slow, 20, 10, 55, 15, 20, 80, 200, Dragon, Water 2, 5000, 5000, 아주 먼 옛날에는 좀 더 강했던 것 같다. 그러나 지금은 안쓰러울 정도로 약하다.
+갸라도스, 130, Water, Flying, Atrocious Pokemon, 650, 235000, Slow, 95, 125, 79, 60, 100, 81, 540, Dragon, Water 2, 5000, 5000, 거의 모습을 드러내지 않지만 한번 날뛰면 커다란 도시가 괴멸하는 경우도 있다.
+라프라스, 131, Water, Ice, Transport Pokemon, 249, 220000, Slow, 130, 85, 80, 85, 95, 60, 535, Monster, Water 1, 5000, 5000, 사람들에게 많이 잡혀버려 멸종 직전에 놓이게 되었다. 사람을 태우고 바다를 나아간다.
+메타몽, 132, Normal, Normal, Transform Pokemon, 30, 4000, Medium Fast, 48, 48, 48, 48, 48, 48, 288, Ditto, Ditto, 0, 0, 세포조직을 한순간에 복사해서 상대와 똑같이 변신하는 능력이 있다.
+이브이, 133, Normal, Normal, Evolution Pokemon, 30, 6500, Medium Fast, 55, 55, 50, 45, 65, 55, 325, Field, Field, 8750, 1250, 불규칙한 유전자를 가졌다. 돌에서 나오는 방사선에 의해 몸이 갑자기 변이를 일으킨다.
+샤미드, 134, Water, Water, Bubble Jet Pokemon, 99, 29000, Medium Fast, 130, 65, 60, 110, 95, 65, 525, Field, Field, 8750, 1250, 물가에 살지만 꼬리에는 물고기 같은 지느러미가 남아 있어 인어로 착각하는 사람도 있다.
+쥬피썬더, 135, Electric, Electric, Lightning Pokemon, 79, 24500, Medium Fast, 65, 65, 60, 110, 95, 130, 525, Field, Field, 8750, 1250, 공기 중의 마이너스 이온을 빨아들여 약 1만 볼트의 전기를 뿜을 수 있다.
+부스터, 136, Fire, Fire, Flame Pokemon, 89, 25000, Medium Fast, 65, 130, 60, 95, 110, 65, 525, Field, Field, 8750, 1250, 몸에 불꽃을 모을 때 체온이 900도 이상으로 올라가서 매우 위험하다.
+폴리곤, 137, Normal, Normal, Virtual Pokemon, 79, 36500, Medium Fast, 65, 60, 70, 85, 75, 40, 395, Mineral, Mineral, 0, 0, 몸이 프로그램으로 이루어져 있다. 전자공간을 자유자재로 이동할 수 있는 능력을 지녔다.
+암나이트, 138, Rock, Water, Spiral Pokemon, 41, 7500, Medium Fast, 35, 40, 100, 90, 55, 35, 355, Water 1, Water 3, 8750, 1250, 절멸한 포켓몬이나 좀처럼 드물지 않게 화석이 발견되 거기에서 되살아날 수 있다.
+암스타, 139, Rock, Water, Spiral Pokemon, 99, 35000, Medium Fast, 70, 60, 125, 115, 70, 55, 495, Water 1, Water 3, 8750, 1250, 날카로운 이빨과 촉수를 지니면서 껍질이 너무 커서 먹이를 잡지 못하고 절멸 한 듯 싶다.
+투구, 140, Rock, Water, Shellfish Pokemon, 51, 11500, Medium Fast, 30, 80, 95, 55, 45, 55, 355, Water 1, Water 3, 8750, 1250, 먼 옛날 바다였던 지층에서 발견한 화석을 부활시킨 포켓몬이다.
+투구푸스, 141, Rock, Water, Shellfish Pokemon, 130, 40500, Medium Fast, 60, 115, 105, 65, 70, 80, 495, Water 1, Water 3, 8750, 1250, 여위어서 헤엄치는 것이 빠르다. 먹잇감을 낫으로 자르고 체액을 남김없이 빨아먹는다.
+프테라, 142, Rock, Flying, Fossil Pokemon, 180, 59000, Slow, 80, 105, 65, 60, 75, 130, 515, Flying, Flying, 8750, 1250, 톱 같은 이빨로 상대의 목덜미를 물어뜯어버린다. 포악한 고대의 포켓몬이다.
+잠만보, 143, Normal, Normal, Sleeping Pokemon, 211, 460000, Slow, 160, 110, 65, 65, 110, 30, 540, Monster, Monster, 8750, 1250, 게으르고 먹고나면 잘 뿐이다. 그래서 점점 살이 쪄가 점점 게을러지고 마는 것 같다.
+프리져, 144, Ice, Flying, Freeze Pokemon, 170, 55400, Slow, 90, 85, 100, 95, 125, 85, 580, Undiscovered, Undiscovered, 0, 0, 눈 덮인 산에서 추워서 얼어죽게 될 상황에 나타나 준다고 하는 전설의 냉동 포켓몬.
+썬더, 145, Electric, Flying, Electric Pokemon, 160, 52600, Slow, 90, 90, 85, 125, 90, 100, 580, Undiscovered, Undiscovered, 0, 0, 구름 위에서 거대한 번개를 내리치며 나타난다. 전설의 새 포켓몬이다.
+파이어, 146, Fire, Flying, Flame Pokemon, 201, 60000, Slow, 90, 100, 90, 125, 85, 90, 580, Undiscovered, Undiscovered, 0, 0, 오래전부터 불새의 전설로 알려져 있다. 날갯짓 할 때마다 날개가 눈부시게 불타올라서 아름답다.
+미뇽, 147, Dragon, Dragon, Dragon Pokemon, 180, 3300, Slow, 41, 64, 45, 50, 50, 50, 300, Dragon, Water 1, 5000, 5000, 오랫동안 환상의 포켓몬이라 불렸다. 물속에 산다는 사실이 겨우 밝혀졌다.
+신뇽, 148, Dragon, Dragon, Dragon Pokemon, 399, 16500, Slow, 61, 84, 65, 70, 70, 70, 420, Dragon, Water 1, 5000, 5000, 오라에 싸여있는 신성한 생명체인 듯하다. 날씨를 바꾸는 힘을 가졌다고 한다.
+망나뇽, 149, Dragon, Flying, Dragon Pokemon, 221, 210000, Slow, 91, 134, 95, 100, 100, 80, 600, Dragon, Water 1, 5000, 5000, 모습을 본 사람은 적지만 실존한다. 바다의 화신. 지능도 인간을 필적한다고 한다.
+뮤츠, 150, Psychic, Psychic, Genetic Pokemon, 201, 122000, Slow, 106, 110, 90, 154, 90, 130, 680, Undiscovered, Undiscovered, 0, 0, 한 과학자가 몇 년에 걸쳐 무서운 유전자의 연구를 계속한 결과 탄생했다.
+뮤, 151, Psychic, Psychic, New Species Pokemon, 41, 4000, Medium Slow, 100, 100, 100, 100, 100, 100, 600, Undiscovered, Undiscovered, 0, 0, 지금도 환상의 포켓몬이라고 전해진다. 그 모습을 본 자는 전국에서 한 명도 없다.
